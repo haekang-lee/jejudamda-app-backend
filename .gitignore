@@ -1,8 +1,7 @@
 # 환경 설정 파일
 .env
-__pycache__
-.idea/*
-.idea
+__pycache__/
+.idea/
 .DS_Store
 test/
 main_total_docent.csv
